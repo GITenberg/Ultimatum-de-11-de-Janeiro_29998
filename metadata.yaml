@@ -1,0 +1,38 @@
+_repo: Ultimatum-de-11-de-Janeiro_29998
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Quental, Antero de
+    aliases:
+    - Tarquinio de Quental, Anthero
+    - Tarquino do Quental, Anthero
+    - De Quental, Antero
+    - Quental, Anthero de
+    birthdate: 1842
+    deathdate: 1891
+    gutenberg_agent_id: '34296'
+    url: http://www.gutenberg.org/2009/agents/34296
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Antero_de_Quental
+    - http://pt.wikipedia.org/wiki/Antero_de_Quental
+  editor:
+    agent_name: Veloso, Rodrigo
+    gutenberg_agent_id: '34297'
+    url: http://www.gutenberg.org/2009/agents/34297
+description: ''
+gutenberg_issued: '2009-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29998'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- Politics and government -- 1889-1908'
+- !lcc 'DP'
+title: Ultimatum de 11 de Janeiro
+url: http://www.gutenberg.org/ebooks/29998
