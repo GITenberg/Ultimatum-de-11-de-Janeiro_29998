@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '34297'
     url: http://www.gutenberg.org/2009/agents/34297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29998#Ultimatum-de-11-de-Janeiro
 gutenberg_issued: '2009-09-15'
 gutenberg_type: Text
 identifiers:
